@@ -6,6 +6,6 @@ null,
 {"id":4,"expanded":false,"name":"map ingame 02","order":3,"parentId":2,"scrollX":1076,"scrollY":708.6666666666666},
 {"id":5,"expanded":true,"name":"map ingame 03","order":5,"parentId":3,"scrollX":1076,"scrollY":587.3333333333334},
 {"id":6,"expanded":true,"name":"sub map 01","order":6,"parentId":5,"scrollX":1086.6666666666667,"scrollY":586},
-{"id":7,"expanded":true,"name":"Ingame map 04","order":7,"parentId":5,"scrollX":1086.6666666666667,"scrollY":586},
-{"id":8,"expanded":false,"name":"Dungeon 01","order":8,"parentId":7,"scrollX":2422.285714285714,"scrollY":3103.7142857142853}
+{"id":7,"expanded":true,"name":"Ingame map 04","order":7,"parentId":5,"scrollX":832,"scrollY":640},
+{"id":8,"expanded":false,"name":"Dungeon 01","order":8,"parentId":7,"scrollX":816,"scrollY":431.5}
 ]
