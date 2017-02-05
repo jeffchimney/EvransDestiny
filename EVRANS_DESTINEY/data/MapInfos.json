@@ -1,7 +1,7 @@
 [
 null,
 {"id":1,"expanded":true,"name":"prolgouge + Character creation ","order":1,"parentId":0,"scrollX":1076,"scrollY":578},
-{"id":2,"expanded":true,"name":"MAP ingame01 ","order":2,"parentId":1,"scrollX":1334.6666666666667,"scrollY":1554},
+{"id":2,"expanded":true,"name":"MAP ingame01 ","order":2,"parentId":1,"scrollX":1302.6666666666667,"scrollY":1543.3333333333333},
 {"id":3,"expanded":true,"name":"cutsense 01 ","order":11,"parentId":2,"scrollX":1076,"scrollY":578},
 {"id":4,"expanded":true,"name":"MAP ingame 02","order":6,"parentId":2,"scrollX":1210.5,"scrollY":699.75},
 {"id":5,"expanded":true,"name":"MAP ingame 03","order":7,"parentId":4,"scrollX":1210.5,"scrollY":719.25},
